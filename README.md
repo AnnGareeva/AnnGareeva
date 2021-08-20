@@ -1,7 +1,7 @@
 ### Hi, guys 👋
 I'm a ML engineer and Python developer
 - 👀 Working with visual data (lidar, images, CTs) 
-- 📜 Using classiscla computer vision and machine larning approaches, neural networks
+- 📜 Using classic computer vision and machine larning approaches, neural networks
 - 🔧 Developing with Python, opencv, pytorch, keras, Docker and other libs and tools
 
 
